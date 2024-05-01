@@ -1,0 +1,34 @@
+
+	React.JS and Express.JS are JS frameworks.
+	
+	Ryan Dahl	-	Node.js
+	
+	#include <iostream>
+	
+	int main(int argc, char *argv[])
+	{
+		//Code to manipulate V8
+	}
+	
+	
+	g++ node.cpp -o node
+	
+	node		-	linux
+	node.exe	-	windows
+	
+	
+	javac node.java
+	java node
+	
+	
+	node script.js
+	
+	M	-	MongoDb
+	E	-	Express
+	R	-	React
+	N	-	Node
+	
+	Java Servlet
+	
+	MVT, MVC
+	Rest-API
