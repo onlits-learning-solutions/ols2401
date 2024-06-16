@@ -1,0 +1,51 @@
+
+	Microservices/Package development
+		- Accounting
+		- Inventory
+		- Tax
+		
+		
+	UI	-	Domain-Centic	-	System	
+		-	Learner			-	Debtor
+		-	Customer		-	Debtor
+	
+	
+	Apache
+	
+	Coding
+	
+	xampp
+	
+	Mysqli
+	PDO	-	12 DBMS
+	
+	variable can simple or it can be complex/composite
+	
+	file
+		name
+		type
+		size
+		attribute[]
+		content
+		
+	int a;
+	
+	Scanner scanner = new Scanner(System.in);
+	var scanner = new Scanner(System.in);
+	
+	
+	Connection connection = DriverManager.getConnection(url, user, pass)
+	var connection = DriverManager.getConnection(url, user, pass);
+	
+	clean code
+	
+	scanf("%d", &a);
+	
+	JavaScript vs TypeScript
+	
+	Dependency Injection
+		Service Container
+		
+		
+	
+	
