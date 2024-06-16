@@ -1,0 +1,42 @@
+
+	Auth::
+	
+	Why Asymtotic Notation in DS
+	
+	O(n)
+	O(log n)
+	
+	JDBC
+		.jar
+	
+	PHP
+		MySQLi
+		PDO
+	.Net
+		ADO.Net
+		
+	Node.JS
+		
+		
+	RDBMS	-	Schema (Structure)
+	
+	Create Table student
+	(
+		rollno int primary key,
+		name varchar(50)
+	);
+	
+	
+	
+	
+	a = input("Enter a number: ")	// dynamic type declaration
+	
+	10 + 20
+	1020
+	
+	int a;				//static type declaration
+	scanf("%d", &a);
+	
+	JS	-> dynamic typing
+	
+	
